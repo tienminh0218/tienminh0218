@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Men 👋
+
+![header](https://github.com/tienminh0218/tienminh0218/blob/main/ezgif-7-2cb107848ffa.gif)
 
 <!--
 **tienminh0218/tienminh0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
